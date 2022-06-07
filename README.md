@@ -11,8 +11,12 @@
 
 运行结果：<u>result</u>
 
+
+
 两点修改内容：
 
-1、guessnum.java 增加了一个while，对开始结束范围的判断
+![image-20220607162751741](C:\Users\Vitoo\AppData\Roaming\Typora\typora-user-images\image-20220607162751741.png)
 
-2、multiarray.java 增加了一个while，对yearcount异常可进行重新输入，另外也直接定义为整数。
+1、guessnum.java 增加了一个while（bool），对开始结束范围的判断
+
+2、multiarray.java 增加了一个while（bool），对yearcount异常可进行重新输入，另外也直接定义成绩为整数。
